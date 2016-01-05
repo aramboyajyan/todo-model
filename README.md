@@ -1,6 +1,7 @@
 # TODO Model
 
-This is a brief set of instructions on how to manage your own `TODO` file using just a text editor.
+This is a brief set of instructions on how to manage your own `TODO` file using just a text editor.  
+Guidelines are very very simple; after trying pretty much any other productivity tool from Trello to Evernote, this is what I keep coming back to. I recommend using it in a basic editor, such as Sublime Text, Vim, Gedit or Notepad++. Avoid regular Notepad on Windows, because it has a very limited "Undo" memory. Monospace font helps with readability.
 
 ## Symbols
 
