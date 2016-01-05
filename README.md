@@ -13,7 +13,7 @@ Denotes a regular task that needs to be done. Most of the items on the list will
 
 #### >
 
-Completed task. This of the symbol as rotated checkmark.
+Completed task. Think of this as a rotated checkmark.
 
 #### ?
 
