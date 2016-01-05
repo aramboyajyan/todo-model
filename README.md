@@ -2,7 +2,7 @@
 
 This is a brief set of instructions on how to manage your own `TODO` file just using a text editor.  
 Guidelines are very very simple; after trying pretty much any other productivity tool from Trello to Evernote, this is what I keep coming back to because it's as intuitive as it gets. At least for my workflow, anyway.  
-I recommend usingin a basic editor, such as Sublime Text, Vim, Gedit or Notepad++. Avoid regular Notepad on Windows, because it has a very limited "Undo" memory. Keep in mind that Monospace font helps with readability.  
+I recommend using a basic editor, such as [Sublime Text](http://www.sublimetext.com/), [Vim](http://www.vim.org/), [Gedit](https://wiki.gnome.org/Apps/Gedit) or [Notepad++](https://notepad-plus-plus.org/). Avoid regular Notepad on Windows, because it has a very limited "Undo" memory. Keep in mind that Monospace font helps with readability.  
 This could work in Word / Libre Office Writer as well.
 
 ## Symbols
