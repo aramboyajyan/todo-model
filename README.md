@@ -10,7 +10,7 @@ Denotes a regular task that needs to be done. Most of the items on the list will
 
 #### >
 
-Completed task.
+Completed task. This of the symbol as rotated checkmark.
 
 #### ?
 
