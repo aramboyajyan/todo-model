@@ -14,7 +14,7 @@ Completed task. This of the symbol as rotated checkmark.
 
 #### ?
 
-Task that needs to be thought about (e.g. figure out a way how execute something), or simply something that might be removed from the list.
+Task that needs to be thought about (e.g. figure out a way how execute something), or simply something that might be removed from the list (e.g. not sure if it's really needed).
 
 #### !
 
