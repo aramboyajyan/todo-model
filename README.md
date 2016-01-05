@@ -23,3 +23,29 @@ Important tasks; for example the ones that need extra attention, be completed fi
 #### ~
 
 Postponed tasks; tasks that need some discussion.
+
+## Format
+
+#### Date
+
+If storing everything in the same file, date goes at the beginning of the file. Tasks are indented by one tab (2 spaces) to make the date stand out a bit. For example:
+
+        2016.01.01.
+          > task one
+          > task two
+          - task three
+          - task four
+          ? task five
+          ~ task null
+
+Use the following format: `YYYY.MM.DD.`.
+
+#### Time
+
+Sometimes it's good to leave a timestamp in the list; indent it with two tabs and place on a new line, right under the previous task or at the top of the list. Next tasks goes right under. For example:
+
+        > task one
+            14:00
+        - task two
+
+Use 24 hour format.
