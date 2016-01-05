@@ -1,7 +1,9 @@
 # TODO Model
 
-This is a brief set of instructions on how to manage your own `TODO` file using just a text editor.  
-Guidelines are very very simple; after trying pretty much any other productivity tool from Trello to Evernote, this is what I keep coming back to. I recommend using it in a basic editor, such as Sublime Text, Vim, Gedit or Notepad++. Avoid regular Notepad on Windows, because it has a very limited "Undo" memory. Monospace font helps with readability.
+This is a brief set of instructions on how to manage your own `TODO` file just using a text editor.  
+Guidelines are very very simple; after trying pretty much any other productivity tool from Trello to Evernote, this is what I keep coming back to because it's as intuitive as it gets. At least for my workflow, anyway.  
+I recommend usingin a basic editor, such as Sublime Text, Vim, Gedit or Notepad++. Avoid regular Notepad on Windows, because it has a very limited "Undo" memory. Keep in mind that Monospace font helps with readability.  
+This could work in Word / Libre Office Writer as well.
 
 ## Symbols
 
@@ -54,3 +56,7 @@ Sometimes it's good to leave a timestamp in the list; indent it with two tabs an
         - task two
 
 Use 24 hour format.
+
+## See also
+
+- [todo.txt](http://todotxt.com/)
