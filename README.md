@@ -24,6 +24,10 @@ Important tasks; for example the ones that need extra attention, be completed fi
 
 Postponed tasks; tasks that need some discussion.
 
+#### x
+
+Removed tasks; left for reference.
+
 ## Format
 
 #### Date
