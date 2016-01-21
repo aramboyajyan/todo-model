@@ -33,6 +33,14 @@ Removed tasks; left for reference.
 
 ## Format
 
+#### Sub-tasks
+
+Just indent them using 2 spaces (1 tab). Example:
+
+        - parent task
+          - child task 1
+          - child task 2
+
 #### Date
 
 If storing everything in the same file, date goes at the beginning of the file. Tasks are indented by one tab (2 spaces) to make the date stand out a bit. For example:
